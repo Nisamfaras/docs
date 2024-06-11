@@ -69,5 +69,5 @@ export default defineConfig({
       ],
     }),
   ],
-  site: 'https://docs.ritikdutta.com',
+  site: 'https://nisamfaras.github.io',
 });
